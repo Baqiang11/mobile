@@ -1,5 +1,5 @@
-Mobile Communications Experiment: NOMA vs OMA
-Project Overview
+Mobile Communications Experiment: NOMA vs OMA/n
+Project Overview/n
 This project investigates the characteristics of mobile communication systems by simulating different modulation techniques, channel models, and access methods using MATLAB and Simulink. The focus is on comparing Non-Orthogonal Multiple Access (NOMA) with Orthogonal Multiple Access (OMA) in Rayleigh fading channels. The project includes analysis of Bit Error Rate (BER) and channel capacity under various signal-to-noise ratios (SNR) and modulation schemes.
 
 Key Features
